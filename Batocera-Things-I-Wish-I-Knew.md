@@ -19,7 +19,7 @@ set this option:
 set aspect ratio:  
 > OPTIONS > ADVANCED SYSTEM OPTIONS > GAME ASPECT RATIO > 4/3  
 set rendering resolution:  
-> OPTIONS > ADVANCED SYSTEM OPTIONS > 4:3 RENDERING RESOLUTION > 1X (640X480)  
+> OPTIONS > ADVANCED SYSTEM OPTIONS > 4:3 RENDERING RESOLUTION > 1X (320X240)  
 optional: set display's resolution  
 > OPTIONS > VIDEO MODE > [set to something lower than default, like 1280x720 ]  
 optional: add retro look to offset 'pixelated output'  
