@@ -1,6 +1,7 @@
 ---
 title: Inspirations
 description: The games that inspire me creatively. 
+note: I could photoshop these together, or something like https://www.etsy.com/shop/CastleRidgeStore
 ---
 
 30XX  
@@ -26,3 +27,5 @@ Mario Galaxy
 Journey  
 Sky   
 WarioWare Twisted  
+Fable
+Ninja Gaiden

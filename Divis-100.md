@@ -1,0 +1,15 @@
+---
+title: Divi's 100 
+---
+- Receive warmth from the sun 
+- Receive stillness, radiance, feminine glow and flow from the moon 
+- Receive forgiveness from Christ 
+- Back up your files to Github 
+- Pixel 3 may not have battery life but it has unlimited photo storage backup 
+- Back up your games in a Batocera build, or Lakka
+- Back up 
+- Learn markdown or a related text format to clean up your words 
+- Learn Regex to mass edit 
+- Learn to use a code editor's file explorer to better manage your files 
+- Place parental controls for apps on yourself with apps like Minimalist for Android 
+- Back up video and load in Kodi, f* Plex 

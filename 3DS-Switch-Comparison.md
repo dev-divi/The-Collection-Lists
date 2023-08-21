@@ -35,7 +35,7 @@ Kid Icarus: Uprising             >     [Null]
 Resident Evil Revelations        =     [re-releases of this title]  
 Shin Megami Tensei IV            ?     Shin Megami Tensei V   
 Bravely Default Series           ?     Octopath Traveler Series   
-  
+Wario: Master of Disguise
 ===  
   
 # Notable Titles and Franchises:   
